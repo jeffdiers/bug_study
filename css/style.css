@@ -1,0 +1,29 @@
+body{margin: 0;}
+
+header {
+  width: 100vw;
+  height: 2em;
+  background-color: #440000;
+  color: white;
+  text-align:center;
+  font-family: wijaya_fresh;
+  font-size: 40px;
+}
+
+
+@font-face {
+    font-family: wijaya_fresh;
+    src: url(../fonts/WIJAYA_FRESH.ttf);
+}
+
+
+footer {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+
+   width:100%;
+   background:#999;
+   text-align: center;
+   padding:10px;
+}
